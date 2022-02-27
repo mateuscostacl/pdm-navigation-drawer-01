@@ -3,7 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/emersonpereira/AndroidStudioProjects/NavigationDrawer01/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1685" />
+        <entry key="..\:/Users/emersonpereira/AndroidStudioProjects/NavigationDrawer01/app/src/main/res/drawable/side_nav_bar.xml" value="0.1685" />
         <entry key="..\:/Users/emersonpereira/AndroidStudioProjects/NavigationDrawer01/app/src/main/res/layout/content_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/emersonpereira/AndroidStudioProjects/NavigationDrawer01/app/src/main/res/layout/fragment_favoritos.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/emersonpereira/AndroidStudioProjects/NavigationDrawer01/app/src/main/res/layout/fragment_gallery.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/emersonpereira/AndroidStudioProjects/NavigationDrawer01/app/src/main/res/layout/fragment_inicio.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/emersonpereira/AndroidStudioProjects/NavigationDrawer01/app/src/main/res/layout/fragment_quemsou.xml" value="0.264" />
+        <entry key="..\:/Users/emersonpereira/AndroidStudioProjects/NavigationDrawer01/app/src/main/res/layout/fragment_slideshow.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/emersonpereira/AndroidStudioProjects/NavigationDrawer01/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Users/emersonpereira/AndroidStudioProjects/NavigationDrawer01/app/src/main/res/menu/activity_main_drawer.xml" value="0.4" />
+        <entry key="..\:/Users/emersonpereira/AndroidStudioProjects/NavigationDrawer01/app/src/main/res/menu/main.xml" value="0.11944444444444445" />
       </map>
     </option>
   </component>
